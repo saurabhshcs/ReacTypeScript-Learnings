@@ -1,3 +1,4 @@
+[<< Back](https://github.com/saurabhshcs/ReacTypeScript-Learnings)
 ### What is React?
 > React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 > React JS is basically a JavaScript library built and maintained by Facebook. According to the creator of React JS, Jordan Walke, React is an efficient, declarative, and flexible open-source JavaScript library for building simple, fast, and scalable frontends of web applications.
@@ -43,3 +44,8 @@ Ever since its launch, it has taken the front-end development space by storm.
 ### What is webpack?
 > React is a free and open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
 ### How to run react app?
+
+
+ollow me on - [Medium](https://saurabhshcs.medium.com) | [Linkedin](https://www.linkedin.com/in/saurabhshcs/) | [YouTube](https://www.youtube.com/channel/UCSQqjPw7_tfx1Ie4yYHbcxQ?pbjreload=102) | [StackOverFlow](https://stackoverflow.com/users/10719720/saurabhshcs?tab=profile)
+
+[<< Back](https://github.com/saurabhshcs/ReacTypeScript-Learnings)
